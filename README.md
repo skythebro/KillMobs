@@ -1,4 +1,5 @@
 # Killmobs
+Server sided mod that kills mobs in range of the player.
 
 ## Installation (Manual)
 
